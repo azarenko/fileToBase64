@@ -1,0 +1,9 @@
+C:\projects\personal\fileToBase64\fileToBase64\bin\Debug\fileToBase64.exe
+C:\projects\personal\fileToBase64\fileToBase64\bin\Debug\fileToBase64.pdb
+C:\projects\personal\fileToBase64\fileToBase64\obj\Debug\fileToBase64.csproj.AssemblyReference.cache
+C:\projects\personal\fileToBase64\fileToBase64\obj\Debug\fileToBase64.Form1.resources
+C:\projects\personal\fileToBase64\fileToBase64\obj\Debug\fileToBase64.Properties.Resources.resources
+C:\projects\personal\fileToBase64\fileToBase64\obj\Debug\fileToBase64.csproj.GenerateResource.cache
+C:\projects\personal\fileToBase64\fileToBase64\obj\Debug\fileToBase64.csproj.CoreCompileInputs.cache
+C:\projects\personal\fileToBase64\fileToBase64\obj\Debug\fileToBase64.exe
+C:\projects\personal\fileToBase64\fileToBase64\obj\Debug\fileToBase64.pdb
